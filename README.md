@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help to develop my data science skills
 - 💬 Ask me about anything related to Python/Machine Learning
 - 🥅 My current goal is to become a successful **Data Scientist**
-- 📫 How to reach me:rohit.sanam@yahoo.in,7674041133
+- 📫 How to reach me:rohit.sanam@celebaltech.com,7674041133
 - ⚡ Fun fact: Keep calm and Do Data Analysis 
 
 
